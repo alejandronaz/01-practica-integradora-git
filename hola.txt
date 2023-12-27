@@ -1,1 +1,1 @@
-este NO es el texto de hola.txt - ahora lo modifique yo
+Este NO es el texto de hola.txt - ahora lo modifique yo
